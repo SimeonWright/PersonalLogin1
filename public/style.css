@@ -1,0 +1,8 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("img/barberpole.gif");
+}
+img{
+  height: 200px;
+}
