@@ -12,4 +12,4 @@
 
 Modified from Scotch.io's auth tutorial
 
-![Screen Shot 2022-11-20 at 12 54 55 PM](https://user-images.githubusercontent.com/113324446/202918010-a344223b-470c-442d-90f8-952476942236.png)
+![Screen Shot 2022-11-20 at 1 29 55 PM](https://user-images.githubusercontent.com/113324446/202919446-60d5c78f-9e0d-41f8-97d0-edafe5039cfd.png)
